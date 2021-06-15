@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="stylesheet" href="./main.css" />
+    <title>Estudos</title>
+  </head>
+
+  <body>
+      <ul>
+      <main>
+          <img src="./img/istockphoto-1150585473-612x612.jpg">
+          <img src="./img/istockphoto-1150585473-612x612.jpg">
+          <img src="./img/istockphoto-1150585473-612x612.jpg">
+          <img src="./img/istockphoto-1150585473-612x612.jpg">
+          <img src="./img/istockphoto-1150585473-612x612.jpg">  
+          <img src="./img/istockphoto-1150585473-612x612.jpg">   
+      </ul>
+    </iframe>
+      </main>
+  </body>
