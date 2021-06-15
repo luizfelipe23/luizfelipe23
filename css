@@ -1,0 +1,78 @@
+body, html {
+  height: calc(100% - 2rem);
+  margin: 0;
+}
+
+body {
+    background-image: linear-gradient(rgb(56, 116, 211),rgb(19, 57, 107),rgb(7, 27, 54));
+    background-attachment: fixed;
+  } 
+  
+alside {
+  color: aliceblue;
+  display: grid;
+  grid-template-columns: auto 40px;
+  padding: 2em;
+  transition: 0.5s;
+}
+
+img {
+  width: 40px;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+figcaption {
+  color: antiquewhite;
+  font-size: 60px;
+  font-weight: bold;
+  display: grid;
+  grid-template-columns: auto 40px;
+  padding-top: 20px;
+  padding-left: 80px;
+  transition: 0.5s;
+}
+
+h2 {
+  font-size: 40px;
+  color: antiquewhite;
+  display: grid;
+  grid-template-columns: auto 40px;
+  padding:  2em;
+  transition: 0.5seg;
+}
+
+
+ul {
+  padding-left: 80px;
+  padding-right: 20xp;
+  
+}
+
+a {
+  text-decoration: none;
+  width: 110px;
+  background-color: rgb(255, 249, 249);
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(7, 27, 54);
+  grid-template-columns: auto 60px;
+  border: 0;
+  cursor: pointer;
+  padding: 1rem;
+  transition: 0.5s;
+  
+}
+
+
+ul {
+  text-decoration: none;
+  padding-top: 10px; 
+  padding-left: 80px;
+  padding-right: 20xp;
+}
+
+img {
+  width: 350px;
+  padding: 1rem;
+}
