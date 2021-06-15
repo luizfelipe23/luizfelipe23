@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @luizfelipe23
-- 👀 I’m interested in javascript and react...
-- 🌱 I’m currently learning javascript...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="stylesheet" href="./main.css" />
+    <title>Estudos</title>
+  </head>
 
-<!---
-luizfelipe23/luizfelipe23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <body>
+    <figcaption>Estudos</figcaption>
+    <h2>Foco na Evolução<br>na Tecnologia<br>e Programação</h2>
+
+    <ul>
+      <a href="./index2.html">Estudos</a>
+      <a href="./index3.html">Projetos</a>
+    </ul>
+  </body>
